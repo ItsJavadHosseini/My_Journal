@@ -8,6 +8,8 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "openpyxl>=3.1.5",
     "pyside6>=6.12.0",
 ]
 
